@@ -8,7 +8,7 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1000, // Set the warning limit to 1000 kB
   },
-  plugins: [ghPages()],
+  
   base: '/Netflix-Clon/', // Replace 'your-repo-name' with the name of your GitHub repository
 })
 
