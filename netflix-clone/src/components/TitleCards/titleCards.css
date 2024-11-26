@@ -38,7 +38,7 @@
 .card :hover{
   /* transform: scale(1.1); */
   transform: scale(0.95);
-  border: 5px solid white;
+  border: 1px solid rgb(210, 105, 105);
 }
 .card p :hover{
   /* transform: scale(1.1); */

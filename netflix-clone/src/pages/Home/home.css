@@ -79,6 +79,7 @@
   background: black ;
 }
 
+
 @media(max-width: 800px){
   .hero-caption .title-cards{
     display: none;
