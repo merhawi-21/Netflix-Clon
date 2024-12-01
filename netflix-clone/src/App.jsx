@@ -21,7 +21,7 @@ function App() {
       }
       else{
         console.log("Logged Out")
-        navigate('/login')
+        navigate('/')
       }
     })
   },[])
